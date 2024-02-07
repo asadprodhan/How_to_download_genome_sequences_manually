@@ -42,33 +42,48 @@ Figure 2: Search results.
 </p>
 
 
+<br />
+
+
 ### **Step 3: Download the genome sequences**
 
 
 - Right-click on each item, for example, ViralProj14122. You will see the Download tab as shown in following screenshot (Fig. 3)
 
 
+<br />
+
+
 <p align="center">
   <img 
     src="https://github.com/asadprodhan/How_to_download_genome_sequences_manually/blob/main/Step3.png"
- align="center" width=100% height=100% >   
+ align="center" width=60% height=60% >   
 </p>
 <p align = center>
 Figure 3: Download tab.
 </p>
 
 
+<br />
+
+
 - Now, click on the “Download” tab. You will see different data options as shown in the following screenshot (Fig. 4):
+
+
+<br />
 
 
 <p align="center">
   <img 
     src="https://github.com/asadprodhan/How_to_download_genome_sequences_manually/blob/main/Step4.png"
- align="center" width=100% height=100% >   
+ align="center" width=60% height=60% >   
 </p>
 <p align = center>
 Figure 4: Data options.
 </p>
+
+
+<br />
 
 
 - Click on the “Download” button
