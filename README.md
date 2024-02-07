@@ -22,11 +22,15 @@ Figure 1 demonstrates an example using Lumpy skin disease virus (LSDV).
 Figure 1: Search your organism in the NCBI website.
 </p>
 
+<br />
 
 > There are 110 LSDV genomes available as of 10-11-2023 (Fig. 2). Here is the link:
 
 
 > https://www.ncbi.nlm.nih.gov/assembly/?term=Lumpy+skin+disease+virus
+
+
+<br />
 
 
 <p align="center">
