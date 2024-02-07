@@ -45,7 +45,7 @@ Figure 2: Search results.
 <br />
 
 
-### **Step 3: Download the genome sequences**
+### **Step 2: Download the genome sequences**
 
 
 - Right-click on each item, for example, ViralProj14122. You will see the Download tab as shown in following screenshot (Fig. 3)
