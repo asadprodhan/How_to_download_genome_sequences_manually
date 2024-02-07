@@ -14,7 +14,7 @@ Figure 1 demonstrates an example using Lumpy skin disease virus (LSDV).
 <p align="center">
   <img 
     src="https://github.com/asadprodhan/How_to_download_genome_sequences_manually/blob/main/Step1.png"
- align="center" width=80% height=80% >   
+ align="center" width=90% height=90% >   
 </p>
 <p align = center>
 Figure 1: Search your organism in the NCBI website.
