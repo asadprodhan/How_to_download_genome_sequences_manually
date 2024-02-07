@@ -36,7 +36,7 @@ Figure 1: Search your organism in the NCBI website.
 <p align="center">
   <img 
     src="https://github.com/asadprodhan/How_to_download_genome_sequences_manually/blob/main/Step1_results.png"
- align="center" width=80% height=80% >   
+ align="center" width=60% height=60% >   
 </p>
 <p align = center>
 Figure 2: Search results.
