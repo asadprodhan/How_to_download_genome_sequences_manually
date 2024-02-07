@@ -1,10 +1,9 @@
 # **How to download all the available genomes of an organism manually?** <br />
 
-### **Asad Prodhan PhD** 
-
-**https://asadprodhan.github.io/**
+### **AUTHOR: Asad Prodhan PhD** **https://asadprodhan.github.io/**
 <br />
 
+<br />
 
 ### **Step 1: Search your organism in the NCBI website**
 
