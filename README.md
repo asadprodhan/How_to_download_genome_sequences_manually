@@ -101,8 +101,4 @@ Figure 4: Data options.
 - Then you will find GCA_000839805.1_ViralProj14122_genomic.fna. This is the genome assembly you will need for your phylogenetic analysis
 
 
-- Repeat the process for 20 genomes to start practicing the phylogenomic analysis
-
-
-
-
+- Repeat this same process for as many genomes as you would need
