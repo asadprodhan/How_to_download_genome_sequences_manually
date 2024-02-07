@@ -1,6 +1,6 @@
 # **How to download all the available genomes of an organism manually?** <br />
 
-### **AUTHOR: Asad Prodhan PhD** **https://asadprodhan.github.io/**
+### **AUTHOR: Dr Asad Prodhan** **https://asadprodhan.github.io/**
 <br />
 
 <br />
