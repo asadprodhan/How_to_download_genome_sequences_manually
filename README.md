@@ -24,10 +24,9 @@ Figure 1: Search your organism in the NCBI website.
 
 <br />
 
-> There are 110 LSDV genomes available as of 10-11-2023 (Fig. 2). Here is the link:
 
+> **There are 110 LSDV genomes available as of 10-11-2023 (Fig. 2)**
 
-> https://www.ncbi.nlm.nih.gov/assembly/?term=Lumpy+skin+disease+virus
 
 
 <br />
